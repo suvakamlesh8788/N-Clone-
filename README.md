@@ -12,5 +12,5 @@ A responsive Netflix India landing page clone built using **HTML** and **CSS**. 
 ## 🚀 How to View
 
 The website is hosted using **GitHub Pages**.  
-👉 [Click here to view it live](https://suvakamlesh8788.github.io/Netflix-Clone-/)  
+👉 [Click here to view it live](https://suvakamlesh8788.github.io/N-Clone-/)  
 
